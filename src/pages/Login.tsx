@@ -1,4 +1,4 @@
-import { Card, Form, Input, Button, Checkbox } from "antd";
+import { Card, Form, Input, Button } from "antd";
 import { useNavigate } from "react-router-dom";
 import AuthLayout from "../components/layout/AuthLayout";
 import { loginUser } from "../utils/auth";
